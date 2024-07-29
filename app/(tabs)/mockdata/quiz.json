@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": [
+      "Harper Lee",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answers": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "answers": [
+      "Oxygen",
+      "Gold",
+      "Silver",
+      "Hydrogen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "answers": [
+      "1912",
+      "1915",
+      "1920",
+      "1905"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Vincent Van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answers": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answers": [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the speed of light?",
+    "answers": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "200,000 km/s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answers": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who is the author of '1984'?",
+    "answers": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Arthur C. Clarke"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "answers": [
+      "Canada",
+      "United States",
+      "China",
+      "Russia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answers": [
+      "Tomato",
+      "Avocado",
+      "Onion",
+      "Garlic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "answers": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answers": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Hg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "answers": [
+      "China",
+      "Brazil",
+      "United Kingdom",
+      "Japan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answers": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correctIndex": 1
+  }
+]
